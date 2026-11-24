@@ -1,1 +1,5 @@
+.idea/
+.pytest_cache/
+/report.csv
+/report.json
 __pycache__/

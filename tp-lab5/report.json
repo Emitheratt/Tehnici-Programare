@@ -1,0 +1,12 @@
+{
+  "status_code": 200,
+  "final_url": "https://example.com/",
+  "title": "Example Domain",
+  "ip": "104.20.23.154",
+  "redirects": [],
+  "security_score": "0/5",
+  "certificate_days_left": null,
+  "internal_links": 0,
+  "external_links": 0,
+  "disallowed_paths": []
+}
